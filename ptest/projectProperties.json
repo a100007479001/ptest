@@ -6,7 +6,7 @@
     "wap_android440_fontsize": "12",
     "apppackagekey": "",
     "nativeContainerProperties": {
-        "isModified": true,
+        "isModified": false,
         "isEnableJSContainer": false,
         "isEnableJSContainerAndroid": false,
         "isEnableJSContaineriOS": false
@@ -200,5 +200,8 @@
     "project_version": "sprint27",
     "wap_ip_fontsize": "12",
     "category": "app",
-    "createdVizVersion": "2.9.0"
+    "createdVizVersion": "2.9.0",
+    "mfappguid": {
+        "3d096189-d4b1-495e-9942-c74398064927": "bcdecbd2-e87e-45cd-b4e8-ea4c91a12e09"
+    }
 }
