@@ -34,7 +34,9 @@
     },
     "allboxes": [],
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "lbl"
+    ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
